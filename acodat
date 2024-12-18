@@ -1,0 +1,8 @@
+div.sceditor-container, body div.sceditor-group, a.sceditor-button:hover, a.sceditor-button.hover {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: var(--radius) !important;
+}
